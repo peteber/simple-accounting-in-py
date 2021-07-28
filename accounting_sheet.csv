@@ -1,0 +1,32 @@
+Description,Amount,Date
+Transaction 1,100,10/10/2020
+Transaction 2,10,21/12/2019
+Transaction 3,50,02/02/1990
+test2222,999,28/02/2020
+test333,888,25/02/2020
+test4,200,25/02/2021
+test5,500,25/02/2020
+7878,500,25/02/2020
+test989,800,25/02/2020
+test negative,-898.0,12/12/2020
+7878,787.0,25/02/2020
+test77,-1000000.0,31/12/2020
+test7,80.0,25/02/2020
+test88,8000.0,25/02/2020
+test,40000.0,12/12/2020
+tesdt787,789.0,25/02/2020
+test78,789.0,12/12/2020
+sdasd,98.0,20/12/2020
+ghj,87.0,20/12/2020
+Transaction bla bla bla,87654321.0,02/02/1990
+transaction bla,333.0,03/02/2020
+transaction bla bla,333.0,02/02/1990
+New Transaction babyb,222.0,14/12/2020
+Even newer transaction,-2222.2222,19/12/2020
+Newer stuff,22223.0,13/12/2020
+Transaction from purchase of ABC,-1000.0,15/12/2020
+Transaction from sale of XYZ,8200.0,17/12/2020
+Sale of car,10000.0,10/04/2021
+Purchase of BTC,-50000.0,11/04/2021
+Aditi's new Victoria's Secret shoes,-999.99,11/04/2021
+more shoes,-1000.0,01/01/2021
