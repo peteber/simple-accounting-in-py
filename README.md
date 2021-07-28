@@ -11,17 +11,17 @@ to:
 - Write additional transactions to the file
 - The file is structured to include a description, the amount and the date of the
 transaction
- - You can choose txt, csv, json or xlsx as format for the transaction file
-INTERACTION:
+- You can choose txt, csv, json or xlsx as format for the transaction file
+- INTERACTION:
 - Your program should ask the user what it should do next (record a transaction,
 calculate the current budget or exit the program)
-- Transaction
+- TRANSACTION:
 - Your program should ask the user to insert the description, the date and
 the amount of a transaction (positive for income, negative for expenses)
 - Your program reacts with a confirmation that the transaction has been
 saved to file and returns the current budget
 - Bonus: The user is able to insert multiple transactions at once
-CURRENT BUDGET:
+- CURRENT BUDGET:
 - Your program returns the current budget and the last 10 transactions
 - Bonus: The user can specify how many transactions the program should
 return
