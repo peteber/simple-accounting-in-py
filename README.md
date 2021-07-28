@@ -1,3 +1,5 @@
+#SIMPLE PROGRAM THAT WRITES NEW TRANSACTIONS AND RETURNS CURRENT BUDGET FROM A CSV FILE
+
 #INSTRUCTIONS
 
 The simplest way to keep track of your personal budget is to record all income and expenses.
